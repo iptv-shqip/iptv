@@ -1,220 +1,219 @@
-#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_AL1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-
-#EXTINF:-1 tvg-name="Kanali 7" tvg-logo="https://i.imgur.com/rL2v9pM.png" tvg-id="Kanali7.al" group-title="Albania",Kanali 7
+#EXTM3U
+#EXTINF:-1,Kanali 7
 https://fe.tring.al/delta/105/out/u/1200_1.m3u8
 
-#EXTINF:-1 tvg-name="A2 CNN Albania" tvg-logo="https://i.imgur.com/TgO3Lzi.png" tvg-id="A2CNN.al" group-title="Albania",A2 CNN Albania
+#EXTINF:-1,A2 CNN Albania
 https://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="ABC News Albania" tvg-logo="https://i.imgur.com/aObcudw.png" tvg-id="ABCNewsAlbania.al" group-title="Albania",ABC News Albania
+#EXTINF:-1,ABC News Albania
 https://www.twitch.tv/abcnewsal
 
-#EXTINF:-1 tvg-name="AlbKanale Music TV" tvg-logo="https://i.imgur.com/JdKxscs.png" tvg-id="AlbKanaleMusicTV.al" group-title="Albania",AlbKanale Music TV
+#EXTINF:-1,AlbKanale Music TV
 https://albportal.net/albkanalemusic.m3u8
 
-#EXTINF:-1 tvg-name="Alpo TV" tvg-logo="https://i.imgur.com/Pr4ixiA.png" tvg-id="AlpoTV.al" group-title="Albania",Alpo TV
+#EXTINF:-1,Alpo TV
 https://5d00db0e0fcd5.streamlock.net/7236/7236/playlist.m3u8
 
-#EXTINF:-1 tvg-name="CNA" tvg-logo="https://i.imgur.com/X3ukD5t.png" tvg-id="CNA.al" group-title="Albania",CNA
+#EXTINF:-1,CNA
 https://live1.mediadesk.al/cnatvlive.m3u8
 
-#EXTINF:-1 tvg-name="Euronews Albania" tvg-logo="https://i.imgur.com/Skf6vdi.png" tvg-id="EuronewsAlbania.al" group-title="Albania",Euronews Albania
+#EXTINF:-1,Euronews Albania
 https://gjirafa-video-live.gjirafa.net/gjvideo-live/2dw-zuf-1c9-pxu/index.m3u8
 
-#EXTINF:-1 tvg-name="News 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/News_24_%28Albania%29.svg/1024px-News_24_%28Albania%29.svg.png" tvg-id="News24.al" group-title="Albania",News 24
+#EXTINF:-1,News 24
 https://tv.balkanweb.com/news24/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Ora News" tvg-logo="https://i.imgur.com/ILZY5bJ.png" tvg-id="OraNews.al" group-title="Albania",Ora News
+#EXTINF:-1,Ora News
 https://live1.mediadesk.al/oranews.m3u8
 
-#EXTINF:-1 tvg-name="Panorama TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Panorama_logo.svg/512px-Panorama_logo.svg.png" tvg-id="PanoramaTV.al" group-title="Albania",Panorama TV
+#EXTINF:-1,Panorama TV
 http://198.244.188.94/panorama/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Report TV" tvg-logo="https://i.imgur.com/yuRDJYY.png" tvg-id="ReportTV.al" group-title="Albania",Report TV
+#EXTINF:-1,Report TV
 https://deb10stream.duckdns.org/hls/stream.m3u8
 
-#EXTINF:-1 tvg-name="Syri" tvg-logo="https://i.imgur.com/4zVyj1M.png" tvg-id="Syri.al" group-title="Albania",Syri
+#EXTINF:-1,Syri
 https://stream.syritv.al/SyriTV/index.m3u8
 
-#EXTINF:-1 tvg-name="Top News" tvg-logo="https://i.imgur.com/tBAXkOW.png" tvg-id="TopNews.al" group-title="Albania",Top News
+#EXTINF:-1,Top News
 https://www.twitch.tv/topnewsal
 
-#EXTINF:-1 tvg-name="Tropoja" tvg-logo="https://i.imgur.com/D3hNOVS.png" tvg-id="TropojaTelevizion.al" group-title="Albania",Tropoja
+#EXTINF:-1,Tropoja
 https://live.prostream.al/al/smil:tropojatv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="TV 7 Albania" tvg-logo="https://i.imgur.com/k9WqPLZ.png" tvg-id="TV7Albania.al" group-title="Albania",TV 7 Albania
+#EXTINF:-1,TV 7 Albania
 https://5d00db0e0fcd5.streamlock.net/7064/7064/playlist.m3u8
 
-#EXTINF:-1 tvg-name="TV Apollon" tvg-logo="https://i.imgur.com/gUz2AjM.png" tvg-id="TVApollon.al" group-title="Albania",TV Apollon
+#EXTINF:-1,TV Apollon
 https://live.apollon.tv/Apollon-WEB/video.m3u8?token=tnt3u76re30d2
 
-#EXTINF:-1 tvg-name="Vizion Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Vizion_Plus.svg/512px-Vizion_Plus.svg.png" tvg-id="VizionPlus.al" group-title="Albania",Vizion Plus
+#EXTINF:-1,Vizion Plus
 https://tringliveviz.akamaized.net/delta/105/out/u/qwaszxerdfcvrtryuy.m3u8
 
-#EXTINF:-1 tvg-name="RTSH 1" tvg-logo="" tvg-id="RTSH1.al" group-title="Albania",RTSH 1
+#EXTINF:-1,RTSH 1
 http://178.33.11.6:8696/live/rtsh1ott/playlist.m3u8
 
-#EXTINF:-1 tvg-name="RTSH 2" tvg-logo="" tvg-id="RTSH2.al" group-title="Albania",RTSH 2
+#EXTINF:-1,RTSH 2
 http://178.33.11.6:8696/live/rtsh2/playlist.m3u8
 
-#EXTINF:-1 tvg-name="RTSH 24" tvg-logo="" tvg-id="RTSH24.al" group-title="Albania",RTSH 24
+#EXTINF:-1,RTSH 24
 http://178.33.11.6:8696/live/rtsh24/playlist.m3u8
 
-#EXTINF:-1 tvg-name="RTSH Shqip" tvg-logo="" tvg-id="RTSHShqip.al" group-title="Albania",RTSH Shqip
+#EXTINF:-1,RTSH Shqip
 http://178.33.11.6:8696/live/rtshshqip/playlist.m3u8
 
-#EXTINF:-1 tvg-name="RTSH Sport" tvg-logo="" tvg-id="RTSHSport.al" group-title="Albania",RTSH Sport
+#EXTINF:-1,RTSH Sport
 http://178.33.11.6:8696/live/rtshsport/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Zjarr TV" tvg-logo="" tvg-id="ZjarrTV.al" group-title="Albania",Zjarr TV
+#EXTINF:-1,Zjarr TV
 https://zjarr.future.al/hls/playlist.m3u8
 
-#EXTINF:-1 tvg-name="RTK 1" tvg-logo="https://i.imgur.com/KTcWcO6.png" tvg-id="RTK1.xk" group-title="Kosovo",RTK 1
+#EXTINF:-1,RTK 1
 https://ub1doy938d.gjirafa.net/live/Gfsqdsr7FewrYClU3ACEGZvCHktt2wse/zykxzq.m3u8
 
-#EXTINF:-1 tvg-name="RTK 2" tvg-logo="https://i.imgur.com/g6k6xyO.png" tvg-id="RTK2.xk" group-title="Kosovo",RTK 2
+#EXTINF:-1,RTK 2
 https://ub1doy938d.gjirafa.net/live/Gfsqdsr7FewrYClU3ACEGZvCHktt2wse/zykxz0.m3u8
 
-#EXTINF:-1 tvg-name="RTK 3" tvg-logo="https://i.imgur.com/Ut9VcT3.png" tvg-id="RTK3.xk" group-title="Kosovo",RTK 3
+#EXTINF:-1,RTK 3
 https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk3/index.m3u8
 
-#EXTINF:-1 tvg-name="RTK 4" tvg-logo="https://i.imgur.com/Urm4XDR.png" tvg-id="RTK4.xk" group-title="Kosovo",RTK 4
+#EXTINF:-1,RTK 4
 https://ub1doy938d.gjirafa.net/live/Gfsqdsr7FewrYClU3ACEGZvCHktt2wse/zykxgt.m3u8
 
-#EXTINF:-1 tvg-name="Kohavision" tvg-logo="" tvg-id="Kohavision.xk" group-title="Kosovo",Kohavision
+#EXTINF:-1,Kohavision
 https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/lj9-pxm-o53-rp0/tracks-v4a1/mono.m3u8
 
-#EXTINF:-1 tvg-name="RTV21" tvg-logo="" tvg-id="RTV21.xk" group-title="Kosovo",RTV21
+#EXTINF:-1,RTV21
 https://gjirafa-video-live.gjirafa.net/gjvideo-live/2cz-npl-jfn-9he/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-name="T7" tvg-logo="" tvg-id="T7.xk" group-title="Kosovo",T7
+#EXTINF:-1,T7
 https://gjirafa-video-live.gjirafa.net/gjvideo-livestream-specific/1z8-byc-4ee-lc9/index.m3u8
 
-#EXTINF:-1 tvg-name="TV Arbëria 1" tvg-logo="" tvg-id="TVArberia1.xk" group-title="Kosovo",TV Arbëria 1
+#EXTINF:-1,TV Arberia 1
 https://yayin30.haber100.com/live/rtvarberia/playlist.m3u8
 
-#EXTINF:-1 tvg-name="TV Arbëria 2" tvg-logo="" tvg-id="TVArberia2.xk" group-title="Kosovo",TV Arbëria 2
+#EXTINF:-1,TV Arberia 2
 https://ssh101.bozztv.com/ssh101/rtvarberia2/playlist.m3u8
 
-#EXTINF:-1 tvg-name="TV Arbëria 3 Fëmijë" tvg-logo="" tvg-id="TVArberia3Femije.xk" group-title="Kosovo",TV Arbëria 3 Fëmijë
+#EXTINF:-1,TV Arberia 3 Femije
 https://ssh101.bozztv.com/ssh101/rtvarberia3/playlist.m3u8
 
-#EXTINF:-1 tvg-name="TV Arbëria 4 Muzikë" tvg-logo="" tvg-id="TVArberia4Muzike.xk" group-title="Kosovo",TV Arbëria 4 Muzikë
+#EXTINF:-1,TV Arberia 4 Muzike
 https://ssh101.bozztv.com/ssh101/rtvarberia4/playlist.m3u8
 
-#EXTINF:-1 tvg-name="TV Arbëria 5" tvg-logo="" tvg-id="TVArberia5.xk" group-title="Kosovo",TV Arbëria 5
+#EXTINF:-1,TV Arberia 5
 https://ssh101.bozztv.com/ssh101/rtvarberia5/playlist.m3u8
 
-#EXTINF:-1 tvg-name="TV Arbëria Retro Hits" tvg-logo="" tvg-id="TVArberiaRetroHits.xk" group-title="Kosovo",TV Arbëria Retro Hits
+#EXTINF:-1,TV Arberia Retro Hits
 https://ssh101.bozztv.com/ssh101/rtvarberiaretro/playlist.m3u8
 
-#EXTINF:-1 tvg-name="TV Arta" tvg-logo="" tvg-id="TVArta.xk" group-title="Kosovo",TV Arta
+#EXTINF:-1,TV Arta
 https://gjirafa-video-live.gjirafa.net/gjvideo-live/mps-vgx-u9p-qv1/index.m3u8
 
-#EXTINF:-1 tvg-name="TV Dielli" tvg-logo="" tvg-id="TVDielli.xk" group-title="Kosovo",TV Dielli
+#EXTINF:-1,TV Dielli
 http://stream.tvdielli.com:8081/dielli/index.m3u8
 
-#EXTINF:-1 tvg-name="TV Opoja" tvg-logo="" tvg-id="TVOpoja.xk" group-title="Kosovo",TV Opoja
+#EXTINF:-1,TV Opoja
 http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
 
-#EXTINF:-1 tvg-name="TV Syri" tvg-logo="" tvg-id="TVSyri.xk" group-title="Kosovo",TV Syri
+#EXTINF:-1,TV Syri
 https://gjirafa-video-live.gjirafa.net/gjvideo-live/xej-xnb-ba0-kup/index.m3u8
 
-#EXTINF:-1 tvg-name="TV Prizreni" tvg-logo="" tvg-id="TVPrizreni.xk" group-title="Kosovo",TV Prizreni
+#EXTINF:-1,TV Prizreni
 https://gjirafa-video-live.gjirafa.net/gjvideo-live/5m0-cok-g5z-1xi/index.m3u8
 
-#EXTINF:-1 tvg-name="ATV Live" tvg-logo="" tvg-id="ATVLive.xk" group-title="Kosovo",ATV Live
+#EXTINF:-1,ATV Live
 https://ub1doy938d.gjirafa.net/live/oEZi1otQqIHglY0tzZidyCPWhxrS5WgO/zyq001.m3u8
 
-#EXTINF:-1 tvg-name="RTV Besa" tvg-logo="" tvg-id="RTVBesa.xk" group-title="Kosovo",RTV Besa
+#EXTINF:-1,RTV Besa
 https://ub1doy938d.gjirafa.net/live/oEZi1otQqIHglY0tzZidyCPWhxrS5WgO/zztyzt.m3u8
 
-#EXTINF:-1 tvg-name="Syri Vision" tvg-logo="" tvg-id="SyriVision.xk" group-title="Kosovo",Syri Vision
+#EXTINF:-1,Syri Vision
 https://ub1doy938d.gjirafa.net/live/DpTlD159VIIRWtzFOvUI70nftnyosgUE/y10z1k.m3u8
 
-#EXTINF:-1 tvg-name="Alsat" tvg-logo="" tvg-id="Alsat.mk" group-title="North Macedonia",Alsat
+#EXTINF:-1,Alsat
 https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Alsat_M)/index.m3u8
 
-#EXTINF:-1 tvg-name="Cool TV" tvg-logo="" tvg-id="CoolTV.mk" group-title="North Macedonia",Cool TV
+#EXTINF:-1,Cool TV
 https://stream.nasatv.com.mk/cooltv/hls/cooltv_live.m3u8
 
-#EXTINF:-1 tvg-name="Folk TV" tvg-logo="" tvg-id="FolkTV.mk" group-title="North Macedonia",Folk TV
+#EXTINF:-1,Folk TV
 https://stream.nasatv.com.mk/folktv/hls/folktv_live.m3u8
 
-#EXTINF:-1 tvg-name="Jazz TV" tvg-logo="" tvg-id="JazzTV.mk" group-title="North Macedonia",Jazz TV
+#EXTINF:-1,Jazz TV
 https://stream.nasatv.com.mk/jazztv/hls/jazztv_live.m3u8
 
-#EXTINF:-1 tvg-name="Kanal 5" tvg-logo="" tvg-id="Kanal5.mk" group-title="North Macedonia",Kanal 5
+#EXTINF:-1,Kanal 5
 https://s2.teve.mk/tvstanici/2/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Love TV" tvg-logo="" tvg-id="LoveTV.mk" group-title="North Macedonia",Love TV
+#EXTINF:-1,Love TV
 https://stream.nasatv.com.mk/lovetv/hls/lovetv_live.m3u8
 
-#EXTINF:-1 tvg-name="M-Net HD" tvg-logo="" tvg-id="MNetHD.mk" group-title="North Macedonia",M-Net HD
+#EXTINF:-1,M-Net HD
 https://live.mnet.mk/hls/mnet.m3u8
 
-#EXTINF:-1 tvg-name="M-Net Info" tvg-logo="" tvg-id="MNetInfo.mk" group-title="North Macedonia",M-Net Info
+#EXTINF:-1,M-Net Info
 https://live.mnet.mk/hls/mnet-info.m3u8
 
-#EXTINF:-1 tvg-name="M-Net Kids" tvg-logo="" tvg-id="MNetKids.mk" group-title="North Macedonia",M-Net Kids
+#EXTINF:-1,M-Net Kids
 http://ares.mnet.mk/hls/mnet-kids.m3u8
 
-#EXTINF:-1 tvg-name="M-Net Sport" tvg-logo="" tvg-id="MNetSport.mk" group-title="North Macedonia",M-Net Sport
+#EXTINF:-1,M-Net Sport
 https://live.mnet.mk/hls/mnet-sport.m3u8
 
-#EXTINF:-1 tvg-name="MRT 1" tvg-logo="" tvg-id="MRT1.mk" group-title="North Macedonia",MRT 1
+#EXTINF:-1,MRT 1
 https://s1.teve.mk/tvstanici/6/playlist.m3u8
 
-#EXTINF:-1 tvg-name="MRT 2" tvg-logo="" tvg-id="MRT2.mk" group-title="North Macedonia",MRT 2
+#EXTINF:-1,MRT 2
 https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(MRT_2)/index.m3u8
 
-#EXTINF:-1 tvg-name="MRT Sobraniski Kanal" tvg-logo="" tvg-id="MRTSobraniskikanal.mk" group-title="North Macedonia",MRT Sobraniski Kanal
+#EXTINF:-1,MRT Sobraniski Kanal
 https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Sobraniski_Kanal)/index.m3u8
 
-#EXTINF:-1 tvg-name="MTM 1" tvg-logo="" tvg-id="MTM.mk" group-title="North Macedonia",MTM 1
+#EXTINF:-1,MTM 1
 https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(MTM)/index.m3u8
 
-#EXTINF:-1 tvg-name="Naša TV" tvg-logo="" tvg-id="NasaTV.mk" group-title="North Macedonia",Naša TV
+#EXTINF:-1,NASA TV
 https://stream.nasatv.com.mk/hls/nasatv_live.m3u8
 
-#EXTINF:-1 tvg-name="Rock TV" tvg-logo="" tvg-id="RockTV.mk" group-title="North Macedonia",Rock TV
+#EXTINF:-1,Rock TV
 https://stream.nasatv.com.mk/rocktv/hls/rocktv_live.m3u8
 
-#EXTINF:-1 tvg-name="Sitel" tvg-logo="" tvg-id="Sitel.mk" group-title="North Macedonia",Sitel
+#EXTINF:-1,Sitel
 https://teve.mk/tvstanici/s1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Sky Folk TV" tvg-logo="" tvg-id="SkyFolkTV.mk" group-title="North Macedonia",Sky Folk TV
+#EXTINF:-1,Sky Folk TV
 https://eu.live.skyfolk.mk/live.m3u8
 
-#EXTINF:-1 tvg-name="Star Plus Music" tvg-logo="" tvg-id="StarPlusTelevizija.mk" group-title="North Macedonia",Star Plus Music
+#EXTINF:-1,Star Plus Music
 https://live.muzickatv.mk/live/StarMusic2.m3u8
 
-#EXTINF:-1 tvg-name="Sutel TV" tvg-logo="" tvg-id="SutelTV.mk" group-title="North Macedonia",Sutel TV
+#EXTINF:-1,Sutel TV
 https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Shutel)/index.m3u8
 
-#EXTINF:-1 tvg-name="Top Estrada TV" tvg-logo="" tvg-id="TopEstradaTV.mk" group-title="North Macedonia",Top Estrada TV
+#EXTINF:-1,Top Estrada TV
 http://live.topestrada.com/live/topestrada/playlist.m3u8
 
-#EXTINF:-1 tvg-name="TV21" tvg-logo="" tvg-id="TV21.mk" group-title="North Macedonia",TV21
+#EXTINF:-1,TV21
 https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(TV21)/index.m3u8
 
-#EXTINF:-1 tvg-name="TV 24" tvg-logo="" tvg-id="TV24.mk" group-title="North Macedonia",TV 24
+#EXTINF:-1,TV 24
 https://s1.teve.mk/tvstanici/5/playlist.m3u8
 
-#EXTINF:-1 tvg-name="TV ERA" tvg-logo="" tvg-id="TVERA.mk" group-title="North Macedonia",TV ERA
+#EXTINF:-1,TV ERA
 https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(ERA)/index.m3u8
 
-#EXTINF:-1 tvg-name="TV NOVA 12" tvg-logo="" tvg-id="TVNOVA12.mk" group-title="North Macedonia",TV NOVA 12
+#EXTINF:-1,TV NOVA 12
 http://151.236.247.171:8080/nova/index.m3u8
 
-#EXTINF:-1 tvg-name="TV Shenja" tvg-logo="" tvg-id="TVShenja.mk" group-title="North Macedonia",TV Shenja
+#EXTINF:-1,TV Shenja
 https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(TV_Shenja)/index.m3u8
 
-#EXTINF:-1 tvg-name="TV Zdravkin" tvg-logo="" tvg-id="TVZdravkin.mk" group-title="North Macedonia",TV Zdravkin
+#EXTINF:-1,TV Zdravkin
 http://zdravkin.hugo.mk:1935/live/zdravkin/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Folk Klub" tvg-logo="" tvg-id="FolkKlubTV.mk" group-title="North Macedonia",Folk Klub
+#EXTINF:-1,Folk Klub
 http://tv1.intv.mk:1935/live2/folkklub/index.m3u8
 
-#EXTINF:-1 tvg-name="INTV Australia" tvg-logo="" tvg-id="INTVAustralia.mk" group-title="North Macedonia",INTV Australia
+#EXTINF:-1,INTV Australia
 http://tv1.intv.mk:1935/live/intv/index.m3u8
