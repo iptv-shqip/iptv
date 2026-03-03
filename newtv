@@ -131,9 +131,6 @@ https://ub1doy938d.gjirafa.net/live/oEZi1otQqIHglY0tzZidyCPWhxrS5WgO/zztyzt.m3u8
 #EXTINF:-1,Syri Vision
 https://ub1doy938d.gjirafa.net/live/DpTlD159VIIRWtzFOvUI70nftnyosgUE/y10z1k.m3u8
 
-#EXTINF:-1,Alsat
-https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Alsat_M)/index.m3u8
-
 #EXTINF:-1,Cool TV
 https://stream.nasatv.com.mk/cooltv/hls/cooltv_live.m3u8
 
@@ -164,15 +161,6 @@ https://live.mnet.mk/hls/mnet-sport.m3u8
 #EXTINF:-1,MRT 1
 https://s1.teve.mk/tvstanici/6/playlist.m3u8
 
-#EXTINF:-1,MRT 2
-https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(MRT_2)/index.m3u8
-
-#EXTINF:-1,MRT Sobraniski Kanal
-https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Sobraniski_Kanal)/index.m3u8
-
-#EXTINF:-1,MTM 1
-https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(MTM)/index.m3u8
-
 #EXTINF:-1,NASA TV
 https://stream.nasatv.com.mk/hls/nasatv_live.m3u8
 
@@ -188,26 +176,14 @@ https://eu.live.skyfolk.mk/live.m3u8
 #EXTINF:-1,Star Plus Music
 https://live.muzickatv.mk/live/StarMusic2.m3u8
 
-#EXTINF:-1,Sutel TV
-https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Shutel)/index.m3u8
-
 #EXTINF:-1,Top Estrada TV
 http://live.topestrada.com/live/topestrada/playlist.m3u8
-
-#EXTINF:-1,TV21
-https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(TV21)/index.m3u8
 
 #EXTINF:-1,TV 24
 https://s1.teve.mk/tvstanici/5/playlist.m3u8
 
-#EXTINF:-1,TV ERA
-https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(ERA)/index.m3u8
-
 #EXTINF:-1,TV NOVA 12
 http://151.236.247.171:8080/nova/index.m3u8
-
-#EXTINF:-1,TV Shenja
-https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(TV_Shenja)/index.m3u8
 
 #EXTINF:-1,TV Zdravkin
 http://zdravkin.hugo.mk:1935/live/zdravkin/playlist.m3u8
