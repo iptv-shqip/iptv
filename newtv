@@ -69,16 +69,16 @@ http://178.33.11.6:8696/live/rtshsport/playlist.m3u8
 https://zjarr.future.al/hls/playlist.m3u8
 
 #EXTINF:-1,RTK 1
-https://ub1doy938d.gjirafa.net/live/Gfsqdsr7FewrYClU3ACEGZvCHktt2wse/zykxzq.m3u8
+https://video.gjirafa.com/embed/rtk-live-1/rtk1?autoplay=true&c=1
 
 #EXTINF:-1,RTK 2
-https://ub1doy938d.gjirafa.net/live/Gfsqdsr7FewrYClU3ACEGZvCHktt2wse/zykxz0.m3u8
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk2/index.m3u8
 
 #EXTINF:-1,RTK 3
 https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk3/index.m3u8
 
 #EXTINF:-1,RTK 4
-https://ub1doy938d.gjirafa.net/live/Gfsqdsr7FewrYClU3ACEGZvCHktt2wse/zykxgt.m3u8
+https://video.gjirafa.com/embed/rtk-live-4/rtk4?autoplay=true&c=1
 
 #EXTINF:-1,Kohavision
 https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/lj9-pxm-o53-rp0/tracks-v4a1/mono.m3u8
