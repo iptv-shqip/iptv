@@ -69,7 +69,7 @@ http://178.33.11.6:8696/live/rtshsport/playlist.m3u8
 https://zjarr.future.al/hls/playlist.m3u8
 
 #EXTINF:-1,RTK 1
-https://video.gjirafa.com/embed/rtk-live-1/rtk1?autoplay=true&c=1
+https://gjvideo-live-xk.gjirafa.net/gjvideo-livestream/98r-d35-487-v6m/mono.ts.m3u8
 
 #EXTINF:-1,RTK 2
 https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk2/index.m3u8
