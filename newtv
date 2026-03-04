@@ -5,9 +5,6 @@ https://fe.tring.al/delta/105/out/u/1200_1.m3u8
 #EXTINF:-1,A2 CNN Albania
 https://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8
 
-#EXTINF:-1,ABC News Albania
-https://www.twitch.tv/abcnewsal
-
 #EXTINF:-1,AlbKanale Music TV
 https://albportal.net/albkanalemusic.m3u8
 
@@ -34,9 +31,6 @@ https://deb10stream.duckdns.org/hls/stream.m3u8
 
 #EXTINF:-1,Syri
 https://stream.syritv.al/SyriTV/index.m3u8
-
-#EXTINF:-1,Top News
-https://www.twitch.tv/topnewsal
 
 #EXTINF:-1,Tropoja
 https://live.prostream.al/al/smil:tropojatv.smil/playlist.m3u8
@@ -140,56 +134,191 @@ https://stream.nasatv.com.mk/folktv/hls/folktv_live.m3u8
 #EXTINF:-1,Jazz TV
 https://stream.nasatv.com.mk/jazztv/hls/jazztv_live.m3u8
 
-#EXTINF:-1,Kanal 5
-https://s2.teve.mk/tvstanici/2/playlist.m3u8
-
 #EXTINF:-1,Love TV
 https://stream.nasatv.com.mk/lovetv/hls/lovetv_live.m3u8
-
-#EXTINF:-1,M-Net HD
-https://live.mnet.mk/hls/mnet.m3u8
-
-#EXTINF:-1,M-Net Info
-https://live.mnet.mk/hls/mnet-info.m3u8
-
-#EXTINF:-1,M-Net Kids
-http://ares.mnet.mk/hls/mnet-kids.m3u8
-
-#EXTINF:-1,M-Net Sport
-https://live.mnet.mk/hls/mnet-sport.m3u8
-
-#EXTINF:-1,MRT 1
-https://s1.teve.mk/tvstanici/6/playlist.m3u8
 
 #EXTINF:-1,NASA TV
 https://stream.nasatv.com.mk/hls/nasatv_live.m3u8
 
+#EXTINF:-1,CNN
+https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+
 #EXTINF:-1,Rock TV
 https://stream.nasatv.com.mk/rocktv/hls/rocktv_live.m3u8
 
-#EXTINF:-1,Sitel
-https://teve.mk/tvstanici/s1/playlist.m3u8
+#EXTINF:-1,TRT 1
+https://tv-trt1.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1,Sky Folk TV
-https://eu.live.skyfolk.mk/live.m3u8
+#EXTINF:-1,TRT Müzik
+https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1,Star Plus Music
-https://live.muzickatv.mk/live/StarMusic2.m3u8
+#EXTINF:-1,Das Erste
+https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
 
-#EXTINF:-1,Top Estrada TV
-http://live.topestrada.com/live/topestrada/playlist.m3u8
+#EXTINF:-1,ZDF
+http://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
 
-#EXTINF:-1,TV 24
-https://s1.teve.mk/tvstanici/5/playlist.m3u8
+#EXTINF:-1,Phoenix
+https://zdf-hls-19.akamaized.net/hls/live/2016502/de/veryhigh/master.m3u8
 
-#EXTINF:-1,TV NOVA 12
-http://151.236.247.171:8080/nova/index.m3u8
+#EXTINF:-1,Tagesschau24
+https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
 
-#EXTINF:-1,TV Zdravkin
-http://zdravkin.hugo.mk:1935/live/zdravkin/playlist.m3u8
-
-#EXTINF:-1,Folk Klub
-http://tv1.intv.mk:1935/live2/folkklub/index.m3u8
-
-#EXTINF:-1,INTV Australia
-http://tv1.intv.mk:1935/live/intv/index.m3u8
+#EXTINF:-1,TV SHENJA
+https://t3.tvmak.com/tv/TVSHENJA.m3u8
+#EXTINF:-1,KLAN Macedonia
+https://t3.tvmak.com/tv/TVART.m3u8
+#EXTINF:-1,TV 21 - Maqedoni
+https://t3.tvmak.com/tv/TV21MK.m3u8
+#EXTINF:-1,Vizion Plus
+https://t3.tvmak.com/tv/VIZIONPLUS.m3u8
+#EXTINF:-1,RTK 1
+https://t3.tvmak.com/tv/RTK1.m3u8
+#EXTINF:-1,RTK 3
+https://t3.tvmak.com/tv/RTK3.m3u8
+#EXTINF:-1,RTV 21
+https://t3.tvmak.com/tv/RTV21KS.m3u8
+#EXTINF:-1,TVM 2 - MRT2
+https://t3.tvmak.com/tv/MRT2.m3u8
+#EXTINF:-1,RTV 21 MIX
+https://t3.tvmak.com/tv/RTV21MIX.m3u8
+#EXTINF:-1,RTV 21 PLUS
+https://t3.tvmak.com/tv/RTV21PLUS.m3u8
+#EXTINF:-1,RTV 21 POPULLORE
+https://t3.tvmak.com/tv/RTV21POPULLORE.m3u8
+#EXTINF:-1,RTV 21 JUNIOR
+https://t3.tvmak.com/tv/RTV21JUNIOR.m3u8
+#EXTINF:-1,RTV PENDIMI
+https://t3.tvmak.com/tv/RTVPENDIMI.m3u8
+#EXTINF:-1,MEKA LIVE
+https://t3.tvmak.com/tv/MEKATV.m3u8
+#EXTINF:-1,Tv Pollogu - Tetovë
+https://t3.tvmak.com/tv/USKANATETOVE.m3u8
+#EXTINF:-1,Tv Uskana - Kerçovë
+https://t3.tvmak.com/tv/USKANAKERCOVE.m3u8
+#EXTINF:-1,rtv Ilirida Dokumentar
+https://t3.tvmak.com/tv/rtviliridaDokumentar.m3u8
+#EXTINF:-1,Zico TV
+https://t3.tvmak.com/tv/zicotv.m3u8
+#EXTINF:-1,AlbFilm 1
+https://t3.tvmak.com/tv/ALBFILMTV1.m3u8
+#EXTINF:-1,AlbFilm 2
+https://t3.tvmak.com/tv/ALBFILMTV2.m3u8
+#EXTINF:-1,TV ERA
+https://t3.tvmak.com/tv/TVERA.m3u8
+#EXTINF:-1,TV KOHA
+https://t3.tvmak.com/tv/TVKOHA.m3u8
+#EXTINF:-1,rtv Ilirida Femij
+https://t3.tvmak.com/tv/rtviliridaFemij.m3u8
+#EXTINF:-1,RTV RED
+https://t3.tvmak.com/tv/RTVRED.m3u8
+#EXTINF:-1,rtv Ilirida Humor
+https://t3.tvmak.com/tv/rtviliridaHumor.m3u8
+#EXTINF:-1,TopEstrada TV
+https://t3.tvmak.com/tv/TOPESTRADATV.m3u8
+#EXTINF:-1,MTV Kosova
+https://t3.tvmak.com/tv/mtvkosova.m3u8
+#EXTINF:-1,RTV ILIRIA
+https://t3.tvmak.com/tv/rtviliria.m3u8
+#EXTINF:-1,rtv Ilirida Film
+https://t3.tvmak.com/tv/rtviliridaFilm.m3u8
+#EXTINF:-1,Turbo Channel
+https://t3.tvmak.com/tv/turbochannel.m3u8
+#EXTINF:-1,Istogu Channel
+https://t3.tvmak.com/tv/ISTOGUchannel.m3u8
+#EXTINF:-1,Tv Tema
+https://t3.tvmak.com/tv/tvtema.m3u8
+#EXTINF:-1,Tv Syri
+https://t3.tvmak.com/tv/tvsyri.m3u8
+#EXTINF:-1,HIMUSIC
+https://t3.tvmak.com/tv/himusic.m3u8
+#EXTINF:-1,Ulqini TV
+https://t3.tvmak.com/tv/ULQINITV.m3u8
+#EXTINF:-1,AA NEWYORK TV
+https://t3.tvmak.com/tv/AANEWYORK.m3u8
+#EXTINF:-1,TV Dielli
+https://t3.tvmak.com/tv/TVDIELLI.m3u8
+#EXTINF:-1,TV Arberia 1
+https://t3.tvmak.com/tv/tvarberia1.m3u8
+#EXTINF:-1,TV Arberia 2
+https://t3.tvmak.com/tv/tvarberia2.m3u8
+#EXTINF:-1,Tv Arberia 3 - Fëmijë
+https://t3.tvmak.com/tv/tvarberia3.m3u8
+#EXTINF:-1,Tv Arberia 4 - Muzik
+https://t3.tvmak.com/tv/tvarberia4.m3u8
+#EXTINF:-1,Tv Arberia 5 - Film
+https://t3.tvmak.com/tv/tvarberia5.m3u8
+#EXTINF:-1,TV Opoja
+https://t3.tvmak.com/tv/TVOPOJA.m3u8
+#EXTINF:-1,TV Globi
+https://t3.tvmak.com/tv/TVGLOBI.m3u8
+#EXTINF:-1,TV2
+https://t3.tvmak.com/tv/TV2GV.m3u8
+#EXTINF:-1,Syri Vision
+https://t3.tvmak.com/tv/SYRIVISION.m3u8
+#EXTINF:-1,Alb UK
+https://t3.tvmak.com/tv/ALBUK1.m3u8
+#EXTINF:-1,DTV Kosove
+https://t3.tvmak.com/tv/DASMATV.m3u8
+#EXTINF:-1,Shota Tv
+https://t3.tvmak.com/tv/SHOTATV.m3u8
+#EXTINF:-1,Albania tv chicago
+https://t3.tvmak.com/tv/ALBTVCHICAGO.m3u8
+#EXTINF:-1,NTV Durres
+https://t3.tvmak.com/tv/ntvdurres.m3u8
+#EXTINF:-1,TV KORCA
+https://t3.tvmak.com/tv/TVKORCA.m3u8
+#EXTINF:-1,SPIN TV
+https://t3.tvmak.com/tv/SPINTV.m3u8
+#EXTINF:-1,Alb Swiss
+https://t3.tvmak.com/tv/ALBSWISS.m3u8
+#EXTINF:-1,TV Besa
+https://t3.tvmak.com/tv/TVBESA.m3u8
+#EXTINF:-1,Alpo Media
+https://t3.tvmak.com/tv/ALPOMEDIA.m3u8
+#EXTINF:-1,RTV Flaka HD
+https://t3.tvmak.com/tv/flakatv.m3u8
+#EXTINF:-1,TV Mitrovica
+https://t3.tvmak.com/tv/tvmitrovica.m3u8
+#EXTINF:-1,Zjarr Tv
+https://t3.tvmak.com/tv/ZJARRTV.m3u8
+#EXTINF:-1,Star Plus
+https://t3.tvmak.com/tv/STARPLUS.m3u8
+#EXTINF:-1,Tv Rozafa
+https://t3.tvmak.com/tv/TVROZAFA.m3u8
+#EXTINF:-1,SCAN Tv
+https://t3.tvmak.com/tv/RTVSCAN.m3u8
+#EXTINF:-1,Tv Kopliku
+https://t3.tvmak.com/tv/TVKOPLIKU.m3u8
+#EXTINF:-1,TV PRIZRENI
+https://t3.tvmak.com/tv/TVPRIZRENI.m3u8
+#EXTINF:-1,Rtv Elkalem
+https://t3.tvmak.com/tv/elkalem.m3u8
+#EXTINF:-1,Drita TV
+https://t3.tvmak.com/tv/DRITATV.m3u8
+#EXTINF:-1,RTV Islam
+https://t3.tvmak.com/tv/RTVISLAM.m3u8
+#EXTINF:-1,AMOL Tv
+https://t3.tvmak.com/tv/AMOL.m3u8
+#EXTINF:-1,Tv Opinion - Prizren
+https://t3.tvmak.com/tv/TVOPINION.m3u8
+#EXTINF:-1,Albdreams tv
+https://t3.tvmak.com/tv/Albdreamstv.m3u8
+#EXTINF:-1,rtv AlbSE
+https://t3.tvmak.com/tv/rtvAlbSE.m3u8
+#EXTINF:-1,Rtv Presheva
+https://t3.tvmak.com/tv/rtvpresheva.m3u8
+#EXTINF:-1,Tv Festa
+https://t3.tvmak.com/tv/TVFESTA.m3u8
+#EXTINF:-1,TV Apollon
+https://t3.tvmak.com/tv/TVAPOLLON.m3u8
+#EXTINF:-1,Albkanal Music TV
+https://t3.tvmak.com/tv/albkanalMusicTV.m3u8
+#EXTINF:-1,Club TV
+https://t3.tvmak.com/tv/clubTV.m3u8
+#EXTINF:-1,TV Diaspora
+https://t3.tvmak.com/tv/DIASPORATV.m3u8
+#EXTINF:-1,rtv Ilirida
+https://t3.tvmak.com/tv/rtvilirida1.m3u8
+#EXTINF:-1,rtv Ilirida Music
+https://t3.tvmak.com/tv/rtviliridaMusic.m3u8
