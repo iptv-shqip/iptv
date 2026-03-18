@@ -5,12 +5,6 @@ https://fe.tring.al/delta/105/out/u/1200_1.m3u8
 #EXTINF:-1,A2 CNN Albania
 https://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8
 
-#EXTINF:-1,Klan
-http://188.172.107.155:3031/live/klanhdmob/playlist.m3u8
-
-#EXTINF:-1,BBF
-http://188.172.107.155:3031/live/bbfott/playlist.m3u8
-
 #EXTINF:-1,AlbKanale Music TV
 https://albportal.net/albkanalemusic.m3u8
 
