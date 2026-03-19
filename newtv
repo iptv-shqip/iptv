@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:-1,Kanali 7
-https://fe.tring.al/delta/105/out/u/1200_1.m3u8
-
 #EXTINF:-1,A2 CNN Albania
 https://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8
 
@@ -322,3 +319,9 @@ https://t3.tvmak.com/tv/DIASPORATV.m3u8
 https://t3.tvmak.com/tv/rtvilirida1.m3u8
 #EXTINF:-1,rtv Ilirida Music
 https://t3.tvmak.com/tv/rtviliridaMusic.m3u8
+
+#EXTINF:-1,AL
+https://ok.ru/videoembed/12557288344086
+
+#EXTINF:-1,AL1
+https://ok6-4.vkuser.net/expires/1774018779052/srcIp/95.86.56.52/pr/10/srcAg/CHROME_ANDROID/ch/1008079328/ms/95.142.206.131/type/3/sig/-kgM6YwXzxM/ct/8/urls/178.237.23.2%3B185.226.55.29/clientType/0/zs/43/id/12108857477654/video/
