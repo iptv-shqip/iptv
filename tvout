@@ -1,393 +1,327 @@
 #EXTM3U
-#EXTINF:-1,Top Channel HD
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/1
-#EXTINF:-1,Klan TV HD
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/2
-#EXTINF:-1,Klan Plus
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/3
-#EXTINF:-1,Klan Kosova HD
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/4
-#EXTINF:-1,T 7 HD
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/5
-#EXTINF:-1,RTV 21 HD
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/6
-#EXTINF:-1,KTV HD
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/7
-#EXTINF:-1,TV Dukagjini HD
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/8
-#EXTINF:-1,RTK 1 HD
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/9
-#EXTINF:-1,RTK 2 HD
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/10
-#EXTINF:-1,RTK 3 HD
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/11
-#EXTINF:-1,RTK 4 HD
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/12
-#EXTINF:-1,TVSH
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/13
-#EXTINF:-1,Vizion Plus HD
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/14
-#EXTINF:-1,3 Plus
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/15
-#EXTINF:-1,Alsat M
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/16
-#EXTINF:-1,TDC
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/179
-#EXTINF:-1,Living HD
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/17
-#EXTINF:-1,Rrookum HD
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/18
-#EXTINF:-1,First Channel HD
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/19
-#EXTINF:-1,Top News
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/20
+#EXTINF:-1,A2 CNN Albania
+https://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8
+
+#EXTINF:-1,AlbKanale Music TV
+https://albportal.net/albkanalemusic.m3u8
+
+#EXTINF:-1,Alpo TV
+https://5d00db0e0fcd5.streamlock.net/7236/7236/playlist.m3u8
+
+#EXTINF:-1,CNA
+https://live1.mediadesk.al/cnatvlive.m3u8
+
+#EXTINF:-1,Euronews Albania
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/2dw-zuf-1c9-pxu/index.m3u8
+
+#EXTINF:-1,News 24
+https://tv.balkanweb.com/news24/livestream/playlist.m3u8
+
 #EXTINF:-1,Ora News
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/180
-#EXTINF:-1,Kanali 7
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/21
-#EXTINF:-1,Arta News HD
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/22
-#EXTINF:-1,Zeri TV
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/186
-#EXTINF:-1,Euro News
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/23
-#EXTINF:-1,Sky News
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/24
-#EXTINF:-1,BBC
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/25
-#EXTINF:-1,CNN
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/26
-#EXTINF:-1,Aljazzira Ballkans 
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/27
-#EXTINF:-1,N 24 Doku
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/28
-#EXTINF:-1,Baby TV
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/29
-#EXTINF:-1,Bang Bang
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/30
-#EXTINF:-1,Cufo
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/31
-#EXTINF:-1,Junior TV
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/32
-#EXTINF:-1,RTV 21 Junior
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/33
-#EXTINF:-1,Tring Kids
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/34
-#EXTINF:-1,Tring Tring
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/35
-#EXTINF:-1,Tip TV
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/36
-#EXTINF:-1,Kika
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/37
-#EXTINF:-1,Toggo Plus
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/38
-#EXTINF:-1,Super RTL
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/39
-#EXTINF:-1,NICKELODEON AT
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/40
-#EXTINF:-1,Duck TV
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/183
-#EXTINF:-1,Cartoon Networ
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/184
-#EXTINF:-1,Boomerang
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/185
-#EXTINF:-1,Folk Plus
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/41
-#EXTINF:-1,BBF
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/42
-#EXTINF:-1,RTV 21 Popullore
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/43
-#EXTINF:-1,RTV 21 Plus
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/44
-#EXTINF:-1,RTV 21 Mix
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/45
-#EXTINF:-1,Dasma TV
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/46
-#EXTINF:-1,Turbo Channel
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/47
-#EXTINF:-1,MTV Kosova
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/48
-#EXTINF:-1,Amol TV
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/49
-#EXTINF:-1,ON TV
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/50
-#EXTINF:-1,Explorer Shkence
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/51
-#EXTINF:-1,Explorer Natyra
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/52
-#EXTINF:-1,Explorer Histori
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/53
-#EXTINF:-1,Tring History
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/54
-#EXTINF:-1,Tring World
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/55
-#EXTINF:-1,Tring Planet
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/56
-#EXTINF:-1,Gallaxy HD
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/57
-#EXTINF:-1,Geo HD
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/58
-#EXTINF:-1,Planet
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/59
-#EXTINF:-1,Nationat Geographic
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/60
-#EXTINF:-1,Nationat Geographic Wild
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/61
-#EXTINF:-1,Discovery Channel
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/62
-#EXTINF:-1,ID Xtra Europe
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/63
-#EXTINF:-1,TLC Austria
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/64
-#EXTINF:-1,Dmax
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/65
-#EXTINF:-1,24 Kitchen
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/182
-#EXTINF:-1,Film Nje HD
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/66
-#EXTINF:-1,Film Dy HD
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/67
-#EXTINF:-1,Film Thriller
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/68
-#EXTINF:-1,Film Komedi
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/69
-#EXTINF:-1,Film Hits HD
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/70
-#EXTINF:-1,Film Drame
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/71
-#EXTINF:-1,Film Autor
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/72
-#EXTINF:-1,Film Aksion 
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/73
-#EXTINF:-1,Tring Shqip
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/74
-#EXTINF:-1,Jolly HD
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/75
-#EXTINF:-1,Tring Super HD
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/76
-#EXTINF:-1,Tring Aksion HD
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/77
-#EXTINF:-1,Tring Fantasy
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/78
-#EXTINF:-1,Tring Comedy
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/79
-#EXTINF:-1,Tring Life
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/80
-#EXTINF:-1,FOX
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/81
-#EXTINF:-1,Fox Life
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/82
-#EXTINF:-1,Fox Crime
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/83
-#EXTINF:-1,Smile
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/84
-#EXTINF:-1,7 HD
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/85
-#EXTINF:-1,Star HD
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/86
-#EXTINF:-1,Aksion
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/87
-#EXTINF:-1,Max
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/88
-#EXTINF:-1,Komedi
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/89
-#EXTINF:-1,Drame
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/90
-#EXTINF:-1,Comedy Central
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/189
-#EXTINF:-1,Film Box Premium
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/137
-#EXTINF:-1,Film Box Extra
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/138
-#EXTINF:-1,Film Box Plus
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/139
-#EXTINF:-1,FilmBox Arthouse
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/140
-#EXTINF:-1,FAST&FUN Box
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/141
-#EXTINF:-1,Fight Box
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/142
-#EXTINF:-1,Gametoon
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/143
-#EXTINF:-1,HBO HD
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/174
-#EXTINF:-1,HBO 2 HD
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/175
-#EXTINF:-1,HBO 3 HD
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/176
-#EXTINF:-1,Cinemax HD
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/177
-#EXTINF:-1,Cinemax 2 HD
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/178
-#EXTINF:-1,Super Sport 1 HD
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/91
-#EXTINF:-1,Super Sport 2 HD
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/92
-#EXTINF:-1,Super Sport 3 HD
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/93
-#EXTINF:-1,Super Sport 4 HD
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/94
-#EXTINF:-1,Super Sport 5 HD
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/188
-#EXTINF:-1,Tring Sport News HD
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/95
-#EXTINF:-1,Tring Sport 1 HD
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/96
-#EXTINF:-1,Tring Sport 2 HD
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/97
-#EXTINF:-1,Tring Sport 3 HD
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/98
-#EXTINF:-1,Tring Sport 4 HD
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/99
-#EXTINF:-1,Euro Sport 1
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/100
-#EXTINF:-1,Euro Sport 2 HD
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/101
-#EXTINF:-1,Arena Sport 1
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/102
-#EXTINF:-1,Arena Sport 2
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/103
-#EXTINF:-1,Arena Sport 3
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/104
-#EXTINF:-1,Sport Klub 1 HD
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/105
-#EXTINF:-1,Sport Klub 2 HD
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/106
-#EXTINF:-1,K Sport 1
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/133
-#EXTINF:-1,K Sport 2
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/134
-#EXTINF:-1,K Sport 3
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/135
-#EXTINF:-1,K Sport 4
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/136
-#EXTINF:-1,Era TV
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/107
-#EXTINF:-1,Shenja TV
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/108
-#EXTINF:-1,Peace  TV
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/109
-#EXTINF:-1,TV Besa
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/110
+https://live1.mediadesk.al/oranews.m3u8
+
+#EXTINF:-1,Panorama TV
+http://198.244.188.94/panorama/livestream/playlist.m3u8
+
+#EXTINF:-1,Report TV
+https://deb10stream.duckdns.org/hls/stream.m3u8
+
+#EXTINF:-1,Syri
+https://stream.syritv.al/SyriTV/index.m3u8
+
+#EXTINF:-1,Tropoja
+https://live.prostream.al/al/smil:tropojatv.smil/playlist.m3u8
+
+#EXTINF:-1,TV 7 Albania
+https://5d00db0e0fcd5.streamlock.net/7064/7064/playlist.m3u8
+
+#EXTINF:-1,TV Apollon
+https://live.apollon.tv/Apollon-WEB/video.m3u8?token=tnt3u76re30d2
+
+#EXTINF:-1,Vizion Plus
+https://tringliveviz.akamaized.net/delta/105/out/u/qwaszxerdfcvrtryuy.m3u8
+
+#EXTINF:-1,RTSH 1
+http://178.33.11.6:8696/live/rtsh1ott/playlist.m3u8
+
+#EXTINF:-1,RTSH 2
+http://178.33.11.6:8696/live/rtsh2/playlist.m3u8
+
+#EXTINF:-1,RTSH 24
+http://178.33.11.6:8696/live/rtsh24/playlist.m3u8
+
+#EXTINF:-1,RTSH Shqip
+http://178.33.11.6:8696/live/rtshshqip/playlist.m3u8
+
+#EXTINF:-1,RTSH Sport
+http://178.33.11.6:8696/live/rtshsport/playlist.m3u8
+
+#EXTINF:-1,Zjarr TV
+https://zjarr.future.al/hls/playlist.m3u8
+
+#EXTINF:-1,RTK 1
+https://gjvideo-live-xk.gjirafa.net/gjvideo-livestream/98r-d35-487-v6m/mono.ts.m3u8
+
+#EXTINF:-1,RTK 2
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk2/index.m3u8
+
+#EXTINF:-1,RTK 3
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk3/index.m3u8
+
+#EXTINF:-1,RTK 4
+https://video.gjirafa.com/embed/rtk-live-4/rtk4?autoplay=true&c=1
+
+#EXTINF:-1,Kohavision
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/lj9-pxm-o53-rp0/tracks-v4a1/mono.m3u8
+
+#EXTINF:-1,RTV21
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/2cz-npl-jfn-9he/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1,T7
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream-specific/1z8-byc-4ee-lc9/index.m3u8
+
+#EXTINF:-1,TV Arberia 1
+https://yayin30.haber100.com/live/rtvarberia/playlist.m3u8
+
+#EXTINF:-1,TV Arberia 2
+https://ssh101.bozztv.com/ssh101/rtvarberia2/playlist.m3u8
+
+#EXTINF:-1,TV Arberia 3 Femije
+https://ssh101.bozztv.com/ssh101/rtvarberia3/playlist.m3u8
+
+#EXTINF:-1,TV Arberia 4 Muzike
+https://ssh101.bozztv.com/ssh101/rtvarberia4/playlist.m3u8
+
+#EXTINF:-1,TV Arberia 5
+https://ssh101.bozztv.com/ssh101/rtvarberia5/playlist.m3u8
+
+#EXTINF:-1,TV Arberia Retro Hits
+https://ssh101.bozztv.com/ssh101/rtvarberiaretro/playlist.m3u8
+
+#EXTINF:-1,TV Arta
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/mps-vgx-u9p-qv1/index.m3u8
+
+#EXTINF:-1,TV Dielli
+http://stream.tvdielli.com:8081/dielli/index.m3u8
+
+#EXTINF:-1,TV Opoja
+http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
+
+#EXTINF:-1,TV Syri
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/xej-xnb-ba0-kup/index.m3u8
+
 #EXTINF:-1,TV Prizreni
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/111
-#EXTINF:-1,TV Opinion
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/112
-#EXTINF:-1,TV Vali
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/113
-#EXTINF:-1,TV Mitrovica
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/114
-#EXTINF:-1,TV Tema
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/115
-#EXTINF:-1,TV Liria
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/116
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/5m0-cok-g5z-1xi/index.m3u8
+
+#EXTINF:-1,ATV Live
+https://ub1doy938d.gjirafa.net/live/oEZi1otQqIHglY0tzZidyCPWhxrS5WgO/zyq001.m3u8
+
+#EXTINF:-1,RTV Besa
+https://ub1doy938d.gjirafa.net/live/oEZi1otQqIHglY0tzZidyCPWhxrS5WgO/zztyzt.m3u8
+
 #EXTINF:-1,Syri Vision
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/117
-#EXTINF:-1,TV Dielli HD
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/187
-#EXTINF:-1,Pozitive Gold
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/118
-#EXTINF:-1,RTV Fontana
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/119
-#EXTINF:-1,Zico TV
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/120
-#EXTINF:-1,Music Box
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/121
-#EXTINF:-1,Deluxe Music
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/190
-#EXTINF:-1,MTV
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/122
-#EXTINF:-1,MTV Hits
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/123
-#EXTINF:-1,MTV Rocks
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/124
-#EXTINF:-1,VH 1
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/125
-#EXTINF:-1,VH 1 Classic
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/126
-#EXTINF:-1,360 Tune Box
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/127
-#EXTINF:-1,NR 1 Turk
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/128
-#EXTINF:-1,TRT Music
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/129
-#EXTINF:-1,Arte
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/130
-#EXTINF:-1,Fashion TV
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/131
-#EXTINF:-1,Fashion Box
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/132
-#EXTINF:-1,RTL 
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/144
-#EXTINF:-1,RTL 2
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/145
-#EXTINF:-1,RTL Plus
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/146
-#EXTINF:-1,Sat 1
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/147
-#EXTINF:-1,Sat 1 Gold
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/148
-#EXTINF:-1,Pro 7
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/149
-#EXTINF:-1,Pro 7 Max
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/150
-#EXTINF:-1,Cable 1
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/151
-#EXTINF:-1,3 Sat
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/152
-#EXTINF:-1,Vox
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/153
-#EXTINF:-1,Vox up
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/197
-#EXTINF:-1,DW
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/154
-#EXTINF:-1,ZDF
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/194
-#EXTINF:-1,ZDF Info
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/195
-#EXTINF:-1,ZDF Neo
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/196
-#EXTINF:-1,Nitro
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/192
-#EXTINF:-1,Welt
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/191
-#EXTINF:-1,Rai Uno
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/155
-#EXTINF:-1,TV 5 Monde
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/156
-#EXTINF:-1,HRT 1
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/157
-#EXTINF:-1,Hayat Plus
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/158
-#EXTINF:-1,Show TV
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/172
-#EXTINF:-1,Star TV
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/173
-#EXTINF:-1,Kanal D
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/170
-#EXTINF:-1,Tek Rrumeli
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/169
-#EXTINF:-1,ATV
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/171
+https://ub1doy938d.gjirafa.net/live/DpTlD159VIIRWtzFOvUI70nftnyosgUE/y10z1k.m3u8
+
+#EXTINF:-1,Cool TV
+https://stream.nasatv.com.mk/cooltv/hls/cooltv_live.m3u8
+
+#EXTINF:-1,Folk TV
+https://stream.nasatv.com.mk/folktv/hls/folktv_live.m3u8
+
+#EXTINF:-1,Jazz TV
+https://stream.nasatv.com.mk/jazztv/hls/jazztv_live.m3u8
+
+#EXTINF:-1,Love TV
+https://stream.nasatv.com.mk/lovetv/hls/lovetv_live.m3u8
+
+#EXTINF:-1,NASA TV
+https://stream.nasatv.com.mk/hls/nasatv_live.m3u8
+
+#EXTINF:-1,CNN
+https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1,Rock TV
+https://stream.nasatv.com.mk/rocktv/hls/rocktv_live.m3u8
+
 #EXTINF:-1,TRT 1
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/159
-#EXTINF:-1,TRT  Turk
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/160
-#EXTINF:-1,TRT World
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/161
-#EXTINF:-1,TRT Haber
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/162
-#EXTINF:-1,TRT Belgesel
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/163
-#EXTINF:-1,Beyaz TV
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/164
-#EXTINF:-1,TV 8
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/165
-#EXTINF:-1,TV 8.5
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/166
-#EXTINF:-1,Fox Turk
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/167
-#EXTINF:-1,NTV
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/168
-#EXTINF:-1,N TV
-http://c283-147-78-161-108.ngrok.io/BedriZekolli/EB7WqKWcS2/193
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1,TRT Müzik
+https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1,Das Erste
+https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
+
+#EXTINF:-1,ZDF
+http://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
+
+#EXTINF:-1,Phoenix
+https://zdf-hls-19.akamaized.net/hls/live/2016502/de/veryhigh/master.m3u8
+
+#EXTINF:-1,Tagesschau24
+https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
+
+#EXTINF:-1,TV SHENJA
+https://t3.tvmak.com/tv/TVSHENJA.m3u8
+#EXTINF:-1,KLAN Macedonia
+https://t3.tvmak.com/tv/TVART.m3u8
+#EXTINF:-1,TV 21 - Maqedoni
+https://t3.tvmak.com/tv/TV21MK.m3u8
+#EXTINF:-1,Vizion Plus
+https://t3.tvmak.com/tv/VIZIONPLUS.m3u8
+#EXTINF:-1,RTK 1
+https://t3.tvmak.com/tv/RTK1.m3u8
+#EXTINF:-1,RTK 3
+https://t3.tvmak.com/tv/RTK3.m3u8
+#EXTINF:-1,RTV 21
+https://t3.tvmak.com/tv/RTV21KS.m3u8
+#EXTINF:-1,TVM 2 - MRT2
+https://t3.tvmak.com/tv/MRT2.m3u8
+#EXTINF:-1,RTV 21 MIX
+https://t3.tvmak.com/tv/RTV21MIX.m3u8
+#EXTINF:-1,RTV 21 PLUS
+https://t3.tvmak.com/tv/RTV21PLUS.m3u8
+#EXTINF:-1,RTV 21 POPULLORE
+https://t3.tvmak.com/tv/RTV21POPULLORE.m3u8
+#EXTINF:-1,RTV 21 JUNIOR
+https://t3.tvmak.com/tv/RTV21JUNIOR.m3u8
+#EXTINF:-1,RTV PENDIMI
+https://t3.tvmak.com/tv/RTVPENDIMI.m3u8
+#EXTINF:-1,MEKA LIVE
+https://t3.tvmak.com/tv/MEKATV.m3u8
+#EXTINF:-1,Tv Pollogu - Tetovë
+https://t3.tvmak.com/tv/USKANATETOVE.m3u8
+#EXTINF:-1,Tv Uskana - Kerçovë
+https://t3.tvmak.com/tv/USKANAKERCOVE.m3u8
+#EXTINF:-1,rtv Ilirida Dokumentar
+https://t3.tvmak.com/tv/rtviliridaDokumentar.m3u8
+#EXTINF:-1,Zico TV
+https://t3.tvmak.com/tv/zicotv.m3u8
+#EXTINF:-1,AlbFilm 1
+https://t3.tvmak.com/tv/ALBFILMTV1.m3u8
+#EXTINF:-1,AlbFilm 2
+https://t3.tvmak.com/tv/ALBFILMTV2.m3u8
+#EXTINF:-1,TV ERA
+https://t3.tvmak.com/tv/TVERA.m3u8
+#EXTINF:-1,TV KOHA
+https://t3.tvmak.com/tv/TVKOHA.m3u8
+#EXTINF:-1,rtv Ilirida Femij
+https://t3.tvmak.com/tv/rtviliridaFemij.m3u8
+#EXTINF:-1,RTV RED
+https://t3.tvmak.com/tv/RTVRED.m3u8
+#EXTINF:-1,rtv Ilirida Humor
+https://t3.tvmak.com/tv/rtviliridaHumor.m3u8
+#EXTINF:-1,TopEstrada TV
+https://t3.tvmak.com/tv/TOPESTRADATV.m3u8
+#EXTINF:-1,MTV Kosova
+https://t3.tvmak.com/tv/mtvkosova.m3u8
+#EXTINF:-1,RTV ILIRIA
+https://t3.tvmak.com/tv/rtviliria.m3u8
+#EXTINF:-1,rtv Ilirida Film
+https://t3.tvmak.com/tv/rtviliridaFilm.m3u8
+#EXTINF:-1,Turbo Channel
+https://t3.tvmak.com/tv/turbochannel.m3u8
+#EXTINF:-1,Istogu Channel
+https://t3.tvmak.com/tv/ISTOGUchannel.m3u8
+#EXTINF:-1,Tv Tema
+https://t3.tvmak.com/tv/tvtema.m3u8
+#EXTINF:-1,Tv Syri
+https://t3.tvmak.com/tv/tvsyri.m3u8
+#EXTINF:-1,HIMUSIC
+https://t3.tvmak.com/tv/himusic.m3u8
+#EXTINF:-1,Ulqini TV
+https://t3.tvmak.com/tv/ULQINITV.m3u8
+#EXTINF:-1,AA NEWYORK TV
+https://t3.tvmak.com/tv/AANEWYORK.m3u8
+#EXTINF:-1,TV Dielli
+https://t3.tvmak.com/tv/TVDIELLI.m3u8
+#EXTINF:-1,TV Arberia 1
+https://t3.tvmak.com/tv/tvarberia1.m3u8
+#EXTINF:-1,TV Arberia 2
+https://t3.tvmak.com/tv/tvarberia2.m3u8
+#EXTINF:-1,Tv Arberia 3 - Fëmijë
+https://t3.tvmak.com/tv/tvarberia3.m3u8
+#EXTINF:-1,Tv Arberia 4 - Muzik
+https://t3.tvmak.com/tv/tvarberia4.m3u8
+#EXTINF:-1,Tv Arberia 5 - Film
+https://t3.tvmak.com/tv/tvarberia5.m3u8
+#EXTINF:-1,TV Opoja
+https://t3.tvmak.com/tv/TVOPOJA.m3u8
+#EXTINF:-1,TV Globi
+https://t3.tvmak.com/tv/TVGLOBI.m3u8
+#EXTINF:-1,TV2
+https://t3.tvmak.com/tv/TV2GV.m3u8
+#EXTINF:-1,Syri Vision
+https://t3.tvmak.com/tv/SYRIVISION.m3u8
+#EXTINF:-1,Alb UK
+https://t3.tvmak.com/tv/ALBUK1.m3u8
+#EXTINF:-1,DTV Kosove
+https://t3.tvmak.com/tv/DASMATV.m3u8
+#EXTINF:-1,Shota Tv
+https://t3.tvmak.com/tv/SHOTATV.m3u8
+#EXTINF:-1,Albania tv chicago
+https://t3.tvmak.com/tv/ALBTVCHICAGO.m3u8
+#EXTINF:-1,NTV Durres
+https://t3.tvmak.com/tv/ntvdurres.m3u8
+#EXTINF:-1,TV KORCA
+https://t3.tvmak.com/tv/TVKORCA.m3u8
+#EXTINF:-1,SPIN TV
+https://t3.tvmak.com/tv/SPINTV.m3u8
+#EXTINF:-1,Alb Swiss
+https://t3.tvmak.com/tv/ALBSWISS.m3u8
+#EXTINF:-1,TV Besa
+https://t3.tvmak.com/tv/TVBESA.m3u8
+#EXTINF:-1,Alpo Media
+https://t3.tvmak.com/tv/ALPOMEDIA.m3u8
+#EXTINF:-1,RTV Flaka HD
+https://t3.tvmak.com/tv/flakatv.m3u8
+#EXTINF:-1,TV Mitrovica
+https://t3.tvmak.com/tv/tvmitrovica.m3u8
+#EXTINF:-1,Zjarr Tv
+https://t3.tvmak.com/tv/ZJARRTV.m3u8
+#EXTINF:-1,Star Plus
+https://t3.tvmak.com/tv/STARPLUS.m3u8
+#EXTINF:-1,Tv Rozafa
+https://t3.tvmak.com/tv/TVROZAFA.m3u8
+#EXTINF:-1,SCAN Tv
+https://t3.tvmak.com/tv/RTVSCAN.m3u8
+#EXTINF:-1,Tv Kopliku
+https://t3.tvmak.com/tv/TVKOPLIKU.m3u8
+#EXTINF:-1,TV PRIZRENI
+https://t3.tvmak.com/tv/TVPRIZRENI.m3u8
+#EXTINF:-1,Rtv Elkalem
+https://t3.tvmak.com/tv/elkalem.m3u8
+#EXTINF:-1,Drita TV
+https://t3.tvmak.com/tv/DRITATV.m3u8
+#EXTINF:-1,RTV Islam
+https://t3.tvmak.com/tv/RTVISLAM.m3u8
+#EXTINF:-1,AMOL Tv
+https://t3.tvmak.com/tv/AMOL.m3u8
+#EXTINF:-1,Tv Opinion - Prizren
+https://t3.tvmak.com/tv/TVOPINION.m3u8
+#EXTINF:-1,Albdreams tv
+https://t3.tvmak.com/tv/Albdreamstv.m3u8
+#EXTINF:-1,rtv AlbSE
+https://t3.tvmak.com/tv/rtvAlbSE.m3u8
+#EXTINF:-1,Rtv Presheva
+https://t3.tvmak.com/tv/rtvpresheva.m3u8
+#EXTINF:-1,Tv Festa
+https://t3.tvmak.com/tv/TVFESTA.m3u8
+#EXTINF:-1,TV Apollon
+https://t3.tvmak.com/tv/TVAPOLLON.m3u8
+#EXTINF:-1,Albkanal Music TV
+https://t3.tvmak.com/tv/albkanalMusicTV.m3u8
+#EXTINF:-1,Club TV
+https://t3.tvmak.com/tv/clubTV.m3u8
+#EXTINF:-1,TV Diaspora
+https://t3.tvmak.com/tv/DIASPORATV.m3u8
+#EXTINF:-1,rtv Ilirida
+https://t3.tvmak.com/tv/rtvilirida1.m3u8
+#EXTINF:-1,rtv Ilirida Music
+https://t3.tvmak.com/tv/rtviliridaMusic.m3u8
+
+#EXTINF:-1,AL
+https://ok.ru/videoembed/12557288344086?nochat=1&autoplay=1
+
+#EXTINF:-1,AL1
+https://ok6-4.vkuser.net/expires/1774018779052/srcIp/95.86.56.52/pr/10/srcAg/CHROME_ANDROID/ch/1008079328/ms/95.142.206.131/type/3/sig/-kgM6YwXzxM/ct/8/urls/178.237.23.2%3B185.226.55.29/clientType/0/zs/43/id/12108857477654/video/
