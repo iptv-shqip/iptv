@@ -287,8 +287,6 @@ https://t3.tvmak.com/tv/TVROZAFA.m3u8
 https://t3.tvmak.com/tv/RTVSCAN.m3u8
 #EXTINF:-1,Tv Kopliku
 https://t3.tvmak.com/tv/TVKOPLIKU.m3u8
-#EXTINF:-1,TV PRIZRENI
-https://t3.tvmak.com/tv/TVPRIZRENI.m3u8
 #EXTINF:-1,Rtv Elkalem
 https://t3.tvmak.com/tv/elkalem.m3u8
 #EXTINF:-1,Drita TV
@@ -320,8 +318,6 @@ https://t3.tvmak.com/tv/rtvilirida1.m3u8
 #EXTINF:-1,rtv Ilirida Music
 https://t3.tvmak.com/tv/rtviliridaMusic.m3u8
 
-#EXTINF:-1,AL
-https://ok.ru/videoembed/12557288344086?nochat=1&autoplay=1
 
 #EXTINF:-1,Te Braktisurit
 https://prx-1546-ant.vmwesa.online/hls2/01/02265/nr5gg3pzvbjv_n/index-v1-a1.m3u8?t=4cdB4GTquWtmoPVbGjffvyZUk5xLNy0mbtsjw7y7Eo8=&s=1773963213&e=43200&v=&srv=transit-up-1171-e&i=0.4&sp=0&asn=396982
