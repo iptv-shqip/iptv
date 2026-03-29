@@ -248,6 +248,3 @@ https://t3.tvmak.com/tv/DIASPORATV.m3u8
 https://t3.tvmak.com/tv/rtvilirida1.m3u8
 #EXTINF:-1,rtv Ilirida Music
 https://t3.tvmak.com/tv/rtviliridaMusic.m3u8
-
-#EXTINF:-1,12
-udp://@239.1.1.2:3030
