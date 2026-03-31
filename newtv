@@ -56,6 +56,15 @@ http://87.238.211.200:2526/MTVKosova
 #EXTINF:-1,RTVMalisheva
 http://95.86.40.62:8001/rtvm
 
+#EXTINF:-1,Kanal10
+http://10.50.8.242:3312/Kanal10
+
+#EXTINF:-1,KlanKosova
+http://10.50.8.242:3312/KlanKosova
+
+#EXTINF:-1,TVDukagjini
+http://10.50.8.242:3312/TVDukagjini
+
 #EXTINF:-1,Tv Drita
 http://alb.protokolldns.xyz:8100/dritatv/telkos/index.m3u8
 
@@ -266,3 +275,6 @@ https://t3.tvmak.com/tv/rtviliridaMusic.m3u8
 
 #EXTINF:-1,Alsat M
 http://10.50.8.242:3232/ALSAT-M
+
+#EXTINF:-1,bak
+http://10.50.8.242:3312/AlsatM
