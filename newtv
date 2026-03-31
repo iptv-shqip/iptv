@@ -47,6 +47,18 @@ https://gjirafa-video-live.gjirafa.net/gjvideo-live/2cz-npl-jfn-9he/index.m3u8
 #EXTINF:-1,T7
 https://gjirafa-video-live.gjirafa.net/gjvideo-livestream-specific/1z8-byc-4ee-lc9/index.m3u8
 
+#EXTINF:-1,DTVHD
+http://live.dtv-ks.com:5588/DTVHD
+
+#EXTINF:-1,MTVKosova
+http://87.238.211.200:2526/MTVKosova
+
+#EXTINF:-1,RTVMalisheva
+http://95.86.40.62:8001/rtvm
+
+#EXTINF:-1,Tv Drita
+http://alb.protokolldns.xyz:8100/dritatv/telkos/index.m3u8
+
 #EXTINF:-1,Zeri
 https://gjirafa-video-live.gjirafa.net/gjvideo-live-n1/jo8-76n-lmx-tv0/index.m3u8
 
@@ -58,6 +70,9 @@ https://gjirafa-video-live.gjirafa.net/gjvideo-live/mps-vgx-u9p-qv1/index.m3u8
 
 #EXTINF:-1,TV Dielli
 http://stream.tvdielli.com:8081/dielli/index.m3u8
+
+#EXTINF:-1,Dielli2
+http://10.55.1.114:80/hdmi
 
 #EXTINF:-1,TV Opoja
 http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
